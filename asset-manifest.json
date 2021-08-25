@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/player-queue/static/css/main.aabb70bd.chunk.css",
+    "main.js": "/player-queue/static/js/main.9f20abaf.chunk.js",
+    "main.js.map": "/player-queue/static/js/main.9f20abaf.chunk.js.map",
+    "runtime-main.js": "/player-queue/static/js/runtime-main.99661309.js",
+    "runtime-main.js.map": "/player-queue/static/js/runtime-main.99661309.js.map",
+    "static/js/2.fefbff49.chunk.js": "/player-queue/static/js/2.fefbff49.chunk.js",
+    "static/js/2.fefbff49.chunk.js.map": "/player-queue/static/js/2.fefbff49.chunk.js.map",
+    "static/js/3.458eff0a.chunk.js": "/player-queue/static/js/3.458eff0a.chunk.js",
+    "static/js/3.458eff0a.chunk.js.map": "/player-queue/static/js/3.458eff0a.chunk.js.map",
+    "index.html": "/player-queue/index.html",
+    "static/css/main.aabb70bd.chunk.css.map": "/player-queue/static/css/main.aabb70bd.chunk.css.map",
+    "static/js/2.fefbff49.chunk.js.LICENSE.txt": "/player-queue/static/js/2.fefbff49.chunk.js.LICENSE.txt",
+    "static/media/Gamecube.59223ce8.png": "/player-queue/static/media/Gamecube.59223ce8.png",
+    "static/media/Joycons.d81e4bf4.png": "/player-queue/static/media/Joycons.d81e4bf4.png",
+    "static/media/Snes.fdcb5c0e.png": "/player-queue/static/media/Snes.fdcb5c0e.png",
+    "static/media/SwitchPro.175407f4.png": "/player-queue/static/media/SwitchPro.175407f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99661309.js",
+    "static/js/2.fefbff49.chunk.js",
+    "static/css/main.aabb70bd.chunk.css",
+    "static/js/main.9f20abaf.chunk.js"
+  ]
+}
