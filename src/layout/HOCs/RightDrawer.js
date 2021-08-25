@@ -111,7 +111,7 @@ const RightDrawer = (props) => {
                     <Typography variant='h5' style={{textAlign: 'center'}}>
                         {players.total}
                     </Typography>
-                    <ListItem style={{justifyContent: 'center', width: '300px'`}}>
+                    <ListItem style={{justifyContent: 'center', width: '300px'}}>
                         <ButtonGroup variant='contained' color='primary'>
                             <Button
                                 disabled={players.total === 2}
